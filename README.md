@@ -1,4 +1,4 @@
-# Lesson Node.js #01
+# Lesson Node.js #02
 
 ## Node.js のインストール
 
